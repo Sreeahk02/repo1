@@ -2,3 +2,7 @@
 ## this is the second header
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+``` javascript
+var name="Hello, world";
+print(name)
+```

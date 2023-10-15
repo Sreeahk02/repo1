@@ -6,3 +6,6 @@
 var name="Hello, world";
 print(name)
 ```
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
